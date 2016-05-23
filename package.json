@@ -1,0 +1,19 @@
+{
+  "name": "twillo",
+  "version": "1.0.0",
+  "description": "twillo rest api",
+  "main": "server",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "tauqeer.shakir@yahoo.com",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.15.1",
+    "cookie-parser": "^1.4.2",
+    "express": "^4.13.4",
+    "mongoose": "^4.4.19",
+    "morgan": "^1.7.0",
+    "twilio": "^2.9.1"
+  }
+}
